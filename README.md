@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhigba1426@gmail.com**
 
-- 📄 Know about my experiences [http://resumade.in/abhinav/resumade](http://resumade.in/abhinav/resumade)
+- 📄 Know about my experiences [http://resumade.in/resume/abhinav](http://resumade.in/resume/abhinav)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
