@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **to keep pace with the rapid evolution of AI.**
 
-- 👨‍💻 All of my projects are available at [http://resumade.in/Abhinav](http://resumade.in/Abhinav)
+- 👨‍💻 All of my projects are available at [http://resumade.in/aboutme/abhinav](http://resumade.in/aboutme/abhinav)
 
 - 💬 Ask me about **System designs, AWS, Java, SpringBoot, Python, React.**
 
